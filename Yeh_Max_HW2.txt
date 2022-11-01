@@ -1,0 +1,2 @@
+HEROKU https://potatoyeh336.herokuapp.com/movies
+github https://github.com/yehtungchi336-tamu/rottenpotatoes
